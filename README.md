@@ -1,4 +1,4 @@
-# calctest
+# Calctest
 Javascript Test
 
 ## Install
